@@ -149,11 +149,11 @@ Using Claude Code could be worthwhile for accelerating routine implementation, b
 
 ### Stage 0 — before the hackathon
 
-- Create repository, pinned Julia environment, and basic team conventions.
-- Confirm all required packages install under Julia 1.12; document a Julia 1.10 fallback only if needed.
-- Identify a GLORYS12 product and produce one small regional/time subset.
-- Verify access to MyOcean Pro and Engaging.
-- Make a first map: GLORYS12 field + polygon + real observation locations.
+- [ ] Create repository, pinned Julia environment, and basic team conventions.
+- [ ] Confirm all required packages install under Julia 1.12; document a Julia 1.10 fallback only if needed.
+- [ ] Identify a GLORYS12 product and produce one small regional/time subset.
+- [ ] Verify access to MyOcean Pro and Engaging.
+- [ ] Make a first map: GLORYS12 field + polygon + real observation locations.
 
 ### Stage 1 — core data products
 
